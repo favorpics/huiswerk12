@@ -1,0 +1,89 @@
+header{
+    background-color: rgb(252, 70, 158);
+    width: 600px;
+}
+
+body {
+    font-family: 'Gill Sans';
+    color: black;
+    background-color: rgb(248, 191, 219);
+
+}
+
+h1{
+    color: #ffffff;
+    font-size: xx-large;
+}
+table, th, td {
+    border: 2px solid black;
+    width: 500px;
+}
+
+#A1{
+    background-color: rgb(39, 160, 75);
+    color: white;
+}
+#A2{
+    background-color: rgb(246, 101, 101);
+    
+}
+#A3{
+    background-color: #804438;
+    color: white;
+}
+
+#A4{
+    background-color: #cb88f4;
+}
+
+#B1{
+    background-color: rgb(242, 212, 15);
+    color: white;
+}
+#B2{
+    background-color: #a4f052;
+    
+}
+#B3{
+    color: white;
+    background-color:rgb(243, 132, 13)
+}
+#B4{
+    background-color:rgb(178, 121, 56)
+}
+#C1{
+    background-color: rgb(51, 101, 201);
+    color: white;
+}
+#C2{
+    background-color: rgb(234, 220, 116);
+    
+}
+#C3{
+    color: white;
+    background-color:rgb(221, 27, 175)
+}
+#C4{
+    background-color:rgb(234, 147, 81)
+}
+#D1{
+    background-color: rgb(230, 14, 14);
+    color: white;
+}
+#D2{
+    background-color: rgb(84, 197, 238);
+    
+}
+#D3{
+    color: white;
+    background-color:rgb(139, 78, 231)
+}
+#D4{
+    background-color:rgb(228, 146, 200)
+}
+footer{
+    background-color: rgb(252, 70, 158);
+    color: #ffffff;
+    width: 600px;
+    height: 100px;
+}
